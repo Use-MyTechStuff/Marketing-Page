@@ -225,7 +225,7 @@ img {
   flex-direction: column;
   align-items: center;
   max-width: auto;
-  max-height: 25%;
+  max-height: 100%;
   margin-top: 90px;
   display: block;
   
